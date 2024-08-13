@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Evaluation Project</string>
+    <string name="title_home">Home</string>
+    <string name="title_evaluation">Evaluation</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_home_header">Пожалуйста следуйте инструкции для начала оценки!</string>
+    <string name="title_home_evaluation">На данный момент вами не выполненено ни одной оценки!</string>
+    <string name="title_home_notifications">Окно уведомлений по состоянию активных и готовых оценок!</string>
+    <string name="home_button_description">Make Evaluation Photos</string>
+    <string name="imagefolders">ImageFolders</string>
+    <string name="title_activity_camerax">CameraxActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="add_image">Добавить фото</string>
+    <string name="text_delete">Удалить</string>
+    <string name="delete_quastion">Удалить файл?</string>
+    <string name="text_done">Готово</string>
+    <string name="set_date_quest">Поставить дату?</string>
+</resources>
